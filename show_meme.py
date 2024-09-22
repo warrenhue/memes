@@ -12,4 +12,5 @@ if __name__ == '__main__':
     plt.axis('off')
     plt.show()
 
+#9f813f1268920678e60b5f620093630f6802b72e - hash pervogo kommita
 
