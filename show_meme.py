@@ -12,7 +12,5 @@ if __name__ == '__main__':
     plt.axis('off')
     plt.show()
 
-#9f813f1268920678e60b5f620093630f6802b72e - hash pervogo kommita
-#commit eshe odin
-#A ETO DRUGAYA VETKA AHHAHAHA
-#vse esche drugaya vetka
+
+#oy tut bil bug no ya ego pochinila HAHHAA
